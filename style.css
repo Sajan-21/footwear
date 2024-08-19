@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-brand-custom{
+    text-shadow: 5px 5px 5px #88c8bc;
+}
+
+.nav-text{
+    color: black;
+}
+
+.nav-text:hover{
+    color: #88c8bc;
+}
+
+
+
+.greenInfo{
+    background-color: #88c8bc;
+    color: white;
+}
+
+.gridContainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 2%;
+}
+
+.boxes{
+    padding: 5%;
+    /* height: 60vh; */
+    width: 18vw;
+}
+
+.boxes:hover{
+    box-shadow: 3px 3px 30px 10px rgb(217, 213, 213);
+    /* padding: 3%; */
+}
+
+.boxImage{
+    width: 30vh;
+    height: 40vh;
+    padding: 10%;
+}
+
+
+
+
